@@ -2,6 +2,7 @@
 
 # StalkPhish
 *StalkPhish - The Phishing kits stalker*
+![Beelzebuuuuu running](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2HyEtEPsjEqHKoouhyPeqDKtQLWN8DG2ivw&usqp=CAU)
 
 **StalkPhish** is a tool created for searching into free OSINT databases for specific phishing kits URL. More, **StalkPhish** is designed to try finding phishing kits sources. Some scammers can't or don't remove their phishing kit sources when they deploy it. You can try to find these sources to extract some useful information as: e-mail addresses where is send stolen data, some more information about scammer or phishing kit developer. From there you can extend your knowledge about the threat and organizations, and get much useful information for your investigations.
 
